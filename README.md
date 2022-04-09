@@ -11,6 +11,7 @@ The amazing features of virtual try on solutions are:
 4. Easy to use: Using an AR Fittings is no rocket science. All you have to do is to download the code on android studio and run it in your smartphone . Read more.
 
 ## Let's See How It Looks
+https://user-images.githubusercontent.com/57556534/162568507-d3a46d6a-c9ca-4026-beaf-4623c4fc2ee9.mp4
 
 
 ## Briefly, here is how you can try it out:
